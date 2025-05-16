@@ -6,10 +6,10 @@ Ce jeu de données fournit des informations détaillées sur les habitudes de so
 
 Principales caractéristiques :
 
-    Mesures complètes du sommeil : Explorez la durée du sommeil, la qualité et les facteurs influençant les habitudes de sommeil.
-    Facteurs de style de vie : Analysez les niveaux d'activité physique, les niveaux de stress et les catégories d'IMC.
-    Santé cardiovasculaire : Examinez les mesures de la pression artérielle et de la fréquence cardiaque.
-    Analyse des troubles du sommeil : Identifiez l'occurrence de troubles du sommeil tels que l'insomnie et l'apnée du sommeil.
+- Mesures complètes du sommeil : Explorez la durée du sommeil, la qualité et les facteurs influençant les habitudes de sommeil.
+- Facteurs de style de vie : Analysez les niveaux d'activité physique, les niveaux de stress et les catégories d'IMC.
+- Santé cardiovasculaire : Examinez les mesures de la pression artérielle et de la fréquence cardiaque.
+- Analyse des troubles du sommeil : Identifiez l'occurrence de troubles du sommeil tels que l'insomnie et l'apnée du sommeil.
 
 Colonnes du jeu de données :
 
