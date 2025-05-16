@@ -29,6 +29,24 @@ Ce jeu de données fournit des informations détaillées sur les habitudes de so
 
 **Utilisations potentielles :**
 
-- Analyse et compréhension des relations entre ces facteurs.
-- Identification des tendances et des schémas dans la santé du sommeil et le style de vie.
-- Éclairage potentiel des stratégies d'amélioration de la santé publique et du bien-être.
+<u>Analyse Exploratoire des Données (EDA) Avancée :</u>
+
+- Identifier les distributions, les valeurs aberrantes et les relations entre les variables à l'aide de visualisations et de statistiques descriptives.
+- Explorer les corrélations entre la durée et la qualité du sommeil et d'autres facteurs tels que l'activité physique, le stress et l'IMC.
+- Examiner la distribution des troubles du sommeil au sein de différentes populations (par âge, sexe, profession).
+- Analyser la relation entre la pression artérielle, la fréquence cardiaque et les habitudes de sommeil.
+
+Ingénierie des Fonctionnalités :
+
+- Créer de nouvelles fonctionnalités pertinentes à partir des colonnes existantes (par exemple, un indice de qualité du sommeil combiné, des catégories d'activité physique).
+- Gérer les valeurs manquantes et les valeurs aberrantes à l'aide de techniques appropriées.
+- Envisager des transformations de variables pour améliorer les performances des modèles.
+
+Modélisation Prédictive :
+
+- Développer des modèles de classification pour prédire la présence de troubles du sommeil (insomnie, apnée du sommeil).
+- Construire des modèles de régression pour prédire la durée et la qualité du sommeil en fonction des facteurs de style de vie.
+    
+Segmentation et Clustering :
+
+- Identifier des groupes distincts d'individus en fonction de leurs habitudes de sommeil et de leur style de vie
